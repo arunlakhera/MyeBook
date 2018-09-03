@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My-e-Book</string>
+    <string name="search_hint">Search book</string>
+    <string name="find">Find</string>
+    <string name="no_data">NO DATA</string>
+    <string name="no_internet">NO INTERNET</string>
+    <string name="search_msg">Please Enter Any Book</string>
+</resources>
